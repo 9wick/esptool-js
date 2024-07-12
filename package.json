@@ -1,5 +1,5 @@
 {
-  "name": "esptool-js",
+  "name": "@9wick/esptool-js",
   "version": "0.4.3",
   "module": "lib/index.js",
   "main": "lib/index.js",
